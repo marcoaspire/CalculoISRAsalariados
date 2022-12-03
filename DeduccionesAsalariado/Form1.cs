@@ -47,7 +47,6 @@ namespace DeduccionesAsalariado
                     {
                         var line = reader.ReadLine();
                         var values = line.Split('-');
-                        //label1.Text = line;
                         límiteInferior.Add(ParseStringToFloat(values[0]));
                         límiteSuperior.Add(ParseStringToFloat(values[1]));
                         cuotaFija.Add(ParseStringToFloat(values[2]));
