@@ -1,6 +1,6 @@
 # CalculoISRAsalariados
 
-# Ejemplo del archivo que se tiene que cargar que deber ser la Tablas ISR anual, esta es la tabla del 2022
+# Ejemplo del archivo que se tiene que cargar en el programa, debe contener solo la Tablas ISR anual, esta es la tabla del 2022
 
 | Límite inferior-Límite superior-Cuota fija-% Sobre excedente del límite inferior |
 | ----------- | 
